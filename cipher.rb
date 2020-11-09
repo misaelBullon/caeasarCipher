@@ -2,7 +2,6 @@ alfabeto  = [*'a'..'z']
 nuevaCadena = ""
 puts "Ingrese una cadena de caracters"
 cadena = gets
-clave = 1
 puts "Ingrese la clave"
 clave = gets.chomp.to_i
 
